@@ -1,7 +1,7 @@
 # Emergency Termination
 
 # Description
-Allow for immediate disable and revocation of entitlements/permissions
+Facilitates real-time disablement and revocation of user permissions and entitlements
 
 # Prerequisites
 - [Standard Item Library](https://github.com/Tools4ever-NIM/NIM-Framework-ItemLibrary)
